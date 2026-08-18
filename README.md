@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HyperfP<br>🎲 Fun fact: I like D&D</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Hyperf<br>🎲 Fun fact: I like D&D</p>
 
 ###
 
